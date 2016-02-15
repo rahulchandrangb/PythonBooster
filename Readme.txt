@@ -1,0 +1,1 @@
+This repo contains ipython notebooks on my experiments with ML algos..This is just to get hands dirty with python. The implementation of many of this algos can be seen in my repo with scala, written long back.
